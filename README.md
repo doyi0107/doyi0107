@@ -5,7 +5,8 @@
 </div>
 
 
-## 🌐기술스택 
+
+## 🛠️Skill Set
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -32,7 +33,7 @@
 </div>
 
 
-##  📞Contact 
+##  📩Contact Me
 <div style="display:flex; flex-direction:row;">
     <a href="https://open.kakao.com/o/sevgyHWf">
        <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"> 
@@ -45,5 +46,5 @@
     </a>
 
 
- ##  DOYI_portfoilo
+ ##  💻doyi_portfoilo
 
