@@ -1,12 +1,11 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DOYI%20WORLD&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DOYI%20WORLD&fontSize=70&animation=blink )
 ### 안녕하세요 개발자 이도이입니다. 방문해주셔서 감사합니다 :smile:
 </div>
 
 
-
-## 🛠️Skill Set
+# 🛠️Skill Set
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -19,6 +18,11 @@
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
         <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=black">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
+    </div><br/>
+     <p><strong>Backend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Java-0769AD"> 
     </div><br/>
    <p><strong>Version Control</strong></p>
     <div>
@@ -33,7 +37,7 @@
 </div>
 
 
-##  📩Contact Me
+#  📩Contact Me
 <div style="display:flex; flex-direction:row;">
     <a href="https://open.kakao.com/o/sevgyHWf">
        <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"> 
@@ -46,5 +50,5 @@
     </a>
 
 
- ##  💻doyi_portfoilo
+ #  💻doyi_portfoilo
 
