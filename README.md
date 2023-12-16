@@ -33,6 +33,11 @@
     <div>
         <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=css3&logoColor=white"> 
+    </div><br/>
+    <p><strong>Distribution</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"> 
     </div>
 </div>
 
