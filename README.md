@@ -58,6 +58,6 @@
 
  #  💻doyi_portfoilo
  
- *포트폴리: <https://doyi-portfolio.vercel.app/>
+ *포트폴리오: <https://doyi-portfolio.vercel.app/>
 
 
