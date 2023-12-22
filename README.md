@@ -2,6 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DOYI%20WORLD&fontSize=70&animation=blink )
 ### 안녕하세요 개발자 이도이입니다. 방문해주셔서 감사합니다 :smile:
+
 </div>
 
 
@@ -56,7 +57,7 @@
 
 
  #  💻doyi_portfoilo
-   <a href="https://doyi-portfolio.vercel.app/">
-      <p>도이스토리</p>
-    </a>
+ 
+ *포트폴리: <https://doyi-portfolio.vercel.app/>
+
 
