@@ -17,6 +17,7 @@
         <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=black"> 
        <img src="https://img.shields.io/badge/Ajax-0769AD"> 
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+        <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white">
         <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=black">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
     </div><br/>
