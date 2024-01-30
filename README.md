@@ -13,6 +13,7 @@
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+       <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=black"> 
        <img src="https://img.shields.io/badge/Ajax-0769AD"> 
@@ -54,7 +55,7 @@
           <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"> 
     </a>
     <a href="https://2-doooo-2.tistory.com/">
-          <img src="https://img.shields.io/badge/Tstory-E74C3C?style=flat-square&logo=Tstory&logoColor=white"> 
+          <img src="https://img.shields.io/badge/Tistory-E74C3C?style=flat-square&logo=Tistory&logoColor=white"> 
     </a>
 
 
