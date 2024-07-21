@@ -54,7 +54,7 @@
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
     </a>
     <a href="https://2-doooo-2.tistory.com/">
-          <img src="https://img.shields.io/badge/Tistory-E74C3C?style=flat-square&logo=Tistory&logoColor=white"> 
+          <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"> 
     </a>
 </div>
 
