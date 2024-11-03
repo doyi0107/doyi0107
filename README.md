@@ -1,6 +1,12 @@
 <div>
-  
 
+ ##  💻Who is DOYI
+ 
+[🗃️포트폴리오](https://doyi-portfolio.vercel.app/)
+
+[📑이력서](https://www.notion.so/13050ed9c78e8020a24ef0e35629ad30)
+
+***** 
   
 ## 🧐About me
 #### 꾸준함의 힘을 아는,
@@ -56,8 +62,5 @@
 
 *****  
 
- ##  💻doyi_portfoilo
- 
- 포트폴리오: <https://doyi-portfolio.vercel.app/>
 
 
