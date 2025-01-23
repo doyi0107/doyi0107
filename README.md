@@ -1,8 +1,10 @@
 <div>
 
  ##  💻Who is DOYI
+
+ [🗃️포트폴리오(PPT)](https://www.canva.com/design/DAGcn2Wfj3w/g27nkV7yhPWBeAm9CQnt6Q/view?utm_content=DAGcn2Wfj3w&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d41dd5747#7)
  
-[🗃️포트폴리오](https://doyi-portfolio.vercel.app/)
+[🗃️포트폴리오(WEB)](https://doyi-portfolio.vercel.app/)
 
 [📑이력서](https://www.notion.so/13050ed9c78e8020a24ef0e35629ad30)
 
