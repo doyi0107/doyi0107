@@ -2,7 +2,7 @@
 
  ##  💻Who is DOYI
 
- [🗃️포트폴리오(PPT)](https://www.canva.com/design/DAGcn2Wfj3w/g27nkV7yhPWBeAm9CQnt6Q/view?utm_content=DAGcn2Wfj3w&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d41dd5747#7)
+ [🗃️포트폴리오(PPT)](https://www.canva.com/design/DAGcn2Wfj3w/g27nkV7yhPWBeAm9CQnt6Q/view?utm_content=DAGcn2Wfj3w&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d41dd5747)
  
 [🗃️포트폴리오(WEB)](https://doyi-portfolio.vercel.app/)
 
